@@ -1,4 +1,4 @@
-These are docs for the Sibernetic Config Gen software
+These are developer docs for the Sibernetic Config Gen software
 
 from http://www.mkdocs.org/#getting-started
 
